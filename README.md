@@ -7,6 +7,6 @@
         I'm a Computer Science graduate from University of Greenwich and I have learned Data Science from HyperionDev.
         <br>
         <br>
-        You can find all my projects on my <a target="blank" href="https://as15800.github.io/">Website</a>
+        You can find all my projects on my <a target="_blank" href="https://as15800.github.io/">Website</a>
     </p>
 </div>
